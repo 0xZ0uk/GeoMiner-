@@ -1,4 +1,4 @@
-local BASE_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/"  -- Update this URL
+local BASE_URL = "https://raw.githubusercontent.com/0xZ0uk/geominer-/"  -- Update this URL
 
 local files = {
     "Utils.lua",
